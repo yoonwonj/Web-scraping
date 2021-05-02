@@ -1,8 +1,8 @@
 # web-scraping
 
 # Web-scraping practice:
-Reference:
-Online course https://www.inflearn.com/course/crawling-scrapy-selenium/dashboard
+Reference:  
+Online course https://www.inflearn.com/course/crawling-scrapy-selenium/dashboard  
 https://www.storybench.org/how-to-scrape-reddit-with-python/
 
 - 200811_Webcrawling_Basicpractice.ipynb  
@@ -11,10 +11,10 @@ https://www.storybench.org/how-to-scrape-reddit-with-python/
 : practicing web-scraping of my own interest based on codes learned from the course
 
 # Web-scraping for research:
-Reference:
-https://praw.readthedocs.io/en/latest/
-https://www.storybench.org/how-to-scrape-reddit-with-python/
-https://github.com/pushshift/api
+Reference:  
+https://praw.readthedocs.io/en/latest/  
+https://www.storybench.org/how-to-scrape-reddit-with-python/  
+https://github.com/pushshift/api  
 https://rareloot.medium.com/using-pushshifts-api-to-extract-reddit-submissions-fb517b286563  
 https://colab.research.google.com/drive/1biLcXeHs8yZD1x9f3gv-cNJXEq7tpyoO?usp=sharing  
 https://www.osrsbox.com/blog/2019/03/18/watercooler-scraping-an-entire-subreddit-2007scape/
